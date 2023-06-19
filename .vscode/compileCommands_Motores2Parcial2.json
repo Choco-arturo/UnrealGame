@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\UnrealProyectos\\UnrealGame\\Source\\Motores2Parcial2\\Motores2Parcial2.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\UnrealProyectos\\UnrealGame\\.vscode\\compileCommands_Motores2Parcial2\\Motores2Parcial2.255.rsp"
+		],
+		"directory": "E:\\Epic\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UnrealProyectos\\UnrealGame\\Source\\Motores2Parcial2\\Motores2Parcial2.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\UnrealProyectos\\UnrealGame\\.vscode\\compileCommands_Motores2Parcial2\\Motores2Parcial2.255.rsp"
+		],
+		"directory": "E:\\Epic\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UnrealProyectos\\UnrealGame\\Source\\Motores2Parcial2\\Motores2Parcial2.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\UnrealProyectos\\UnrealGame\\.vscode\\compileCommands_Motores2Parcial2\\Motores2Parcial2.255.rsp"
+		],
+		"directory": "E:\\Epic\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UnrealProyectos\\UnrealGame\\Source\\Motores2Parcial2\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\UnrealProyectos\\UnrealGame\\.vscode\\compileCommands_Motores2Parcial2\\Motores2Parcial2.255.rsp"
+		],
+		"directory": "E:\\Epic\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UnrealProyectos\\UnrealGame\\Source\\Motores2Parcial2\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\UnrealProyectos\\UnrealGame\\.vscode\\compileCommands_Motores2Parcial2\\Motores2Parcial2.255.rsp"
+		],
+		"directory": "E:\\Epic\\UE_5.1\\Engine\\Source"
+	}
+]
