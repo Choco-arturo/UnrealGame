@@ -48,3 +48,4 @@ void AMovingWall::Tick(float DeltaTime)
 
     SetActorLocation(NewLocation);
 }
+//verga de dinosaurio gemelo

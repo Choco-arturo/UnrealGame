@@ -29,3 +29,5 @@ private:
     FVector TargetLocation;
     bool bMovingUp;
 };
+
+//verga de dinosaurio gemelo
